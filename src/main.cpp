@@ -32,7 +32,7 @@ int main() {
 
                 std::cin.clear();
                 std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
-                std::cout << "Введите целое число от 0 до 5.\n";
+                std::cout << "Введите целое число от 0 до 5\n";
                 continue;
             }
 
